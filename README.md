@@ -1,4 +1,4 @@
-# h1 The Covid Dashboard README
+# The Covid Dashboard README
 
 
 INTRODUCTION
