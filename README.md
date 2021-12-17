@@ -1,4 +1,4 @@
-# The Covid Dashboard README
+# The Covid Dashboard
 
 
 INTRODUCTION
