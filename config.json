@@ -1,0 +1,10 @@
+DATA_LOCAL_AREA = "Exeter"
+DATA_LOCAL_TYPE = "ltla"
+DATA_NATION_AREA = "England"
+DATA_NATION_AREA = "nation"
+
+NEWS_TERMS = "Covid COVID-19 coronavirus"
+NEWS_CATEGORY = "health"
+NEWS_LANGUAGE = "en"
+
+UPDATE_REPEAT_INTERVAL = "86400"
